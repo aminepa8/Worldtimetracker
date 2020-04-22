@@ -8,11 +8,12 @@ This project is based on The Net Ninja  Flutter tutorial
 
 ## App ScreeShots
 #### Loading Screen
-![Screenshot app](screenLoading.png)
+<img align="left"  alt="Screenshot app" src="https://raw.githubusercontent.com/aminepa8/Worldtimetracker/master/screenLoading.png">
 #### Home Screen day
-![Screenshot app](screen2.png)
+<img align="right"  alt="Screenshot app" src="https://raw.githubusercontent.com/aminepa8/Worldtimetracker/master/screen2.png">
 #### Home Screen night
-![Screenshot app](screen2night.png)
+<img align="left"  alt="Screenshot app" src="https://raw.githubusercontent.com/aminepa8/Worldtimetracker/master/screen2night.png">
 #### Choose Location Screen
-![Screenshot app](screen3.png)
+<img align="right"  alt="Screenshot app" src="https://raw.githubusercontent.com/aminepa8/Worldtimetracker/master/screen3.png">
+
 
